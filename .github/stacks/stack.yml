@@ -1,7 +1,7 @@
 version: 0.1.0                                            
 
-name: TestAditsrin2           
-description: TestAditsrin2 Demo Stack               
+name: TestAditsrin3           
+description: TestAditsrin3 Demo Stack               
 
 branding:                                                # stack branding 
  icon: 'package'
